@@ -1,10 +1,8 @@
+# Hi there, I'm Hariprakash K A 👋
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&height=50&lines=Backend+%26+Cloud+Engineer;RAG+%26+AI+Systems+Builder;AWS+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+Kubernetes;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
-
-# Hi there, I'm Hariprakash K A 👋
-
-### Software Engineer | Backend & Cloud Engineering | AI/RAG Systems
 
 I build backend systems, cloud-native applications, and AI-powered services — with a growing focus on Retrieval-Augmented Generation, distributed systems, and scalable cloud infrastructure.
 
